@@ -1,6 +1,5 @@
 //
 //  API.swift
-//  appBanHang
 //
 //
 
